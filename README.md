@@ -1,4 +1,4 @@
-# 🌊 Atheryx :Campus Water Digital Twin
+# 🌊 Atheryx : Campus Water Digital Twin
 **By Team Armakine**
 
 ### 🎯 One-Line Problem Statement
@@ -15,4 +15,5 @@ We bridge the intelligence-action gap through a structured four-tiered ecosystem
 - **AI Logic:** Gemini 2.0 Flash
 - **IDE:** Kiro (Agentic Development)
 - **Database:** InfluxDB (Open Source)
+
 - **Communication:** Eclipse Mosquitto (MQTT)
