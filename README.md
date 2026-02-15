@@ -1,5 +1,5 @@
 # 🌊 Atheryx : Campus Water Digital Twin
-**By Team Armakine**
+**By Team Armakiine**
 
 ### 🎯 One-Line Problem Statement
 Protecting critical infrastructure through a closed-loop digital twin that detects, predicts, and autonomously mitigates physical failures in real-time.
@@ -17,3 +17,4 @@ We bridge the intelligence-action gap through a structured four-tiered ecosystem
 - **Database:** InfluxDB (Open Source)
 
 - **Communication:** Eclipse Mosquitto (MQTT)
+
